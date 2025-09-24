@@ -36,4 +36,10 @@ public class Persona
         System.Console.WriteLine("Edad: " + edad + ", Género: " + genero + ", Dirección: " + direccion);
         System.Console.WriteLine("Teléfono: " + telefono + ", Email: " + email);
     }
+
+    //Implementar un método llamado CalcularIMC() que retorne el valor del IMC (peso / altura2).
+    public float CalcularIMC()
+    {
+        return peso / (altura * altura);
+    }
 }

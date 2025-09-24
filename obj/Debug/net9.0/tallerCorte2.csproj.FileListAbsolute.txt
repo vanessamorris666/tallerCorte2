@@ -12,3 +12,4 @@ C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\obj\Debug\net9.0\refin
 C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\obj\Debug\net9.0\tallerCorte2.pdb
 C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\obj\Debug\net9.0\tallerCorte2.genruntimeconfig.cache
 C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\obj\Debug\net9.0\ref\tallerCorte2.dll
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\obj\Debug\net9.0\tallerCorte2.sourcelink.json

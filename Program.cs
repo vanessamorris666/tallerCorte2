@@ -23,6 +23,9 @@ internal class Program
         System.Console.WriteLine("Email: ");
         p.email = Console.ReadLine();
 
+        System.Console.WriteLine();
         p.mostrarDatos();
+        System.Console.WriteLine();
+        System.Console.WriteLine("Su IMC es: " + p.CalcularIMC());
     }
 }
