@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\obj\Debug\net9.0\tallerCorte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\obj\Debug\net9.0\tallerCorte2.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\obj\Debug\net9.0\tallerCorte2.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\obj\Debug\net9.0\tallerCorte2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\bin\Debug\net9.0\tallerCorte2.exe
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\bin\Debug\net9.0\tallerCorte2.deps.json
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\bin\Debug\net9.0\tallerCorte2.runtimeconfig.json
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\bin\Debug\net9.0\tallerCorte2.dll
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\bin\Debug\net9.0\tallerCorte2.pdb
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\obj\Debug\net9.0\tallerCorte2.dll
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\obj\Debug\net9.0\refint\tallerCorte2.dll
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\obj\Debug\net9.0\tallerCorte2.pdb
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\obj\Debug\net9.0\tallerCorte2.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Documentos\Programacion\tallerCorte2\obj\Debug\net9.0\ref\tallerCorte2.dll
