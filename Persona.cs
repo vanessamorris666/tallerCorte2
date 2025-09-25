@@ -42,4 +42,40 @@ public class Persona
     {
         return peso / (altura * altura);
     }
+
+    //Agregar un método que clasifique el resultado de acuerdo con los rangos de la OMS, mostrando tanto la composición corporal como el riesgo asociado
+    public void ClasificarIMC()
+    {
+        float imc = CalcularIMC();
+        if (imc < 18.5)
+        {
+            System.Console.WriteLine("Composición corporal: Bajo peso");
+            System.Console.WriteLine("Riesgo asociado: Riesgo de deficiencias nutricionales, anemia y osteoporosis.");
+        }
+        else if (imc >= 18.5 && imc <= 24.9)
+        {
+            System.Console.WriteLine("Composición corporal: Normal");
+            System.Console.WriteLine("Riesgo asociado: Riesgo bajo; estado saludable.");
+        }
+        else if (imc >= 25 && imc <= 29.9)
+        {
+            System.Console.WriteLine("Composición corporal: Sobrepeso");
+            System.Console.WriteLine("Riesgo asociado: Riesgo aumentado de enfermedades cardiovasculares, hipertensión y diabetes.");
+        }
+        else if (imc >= 30 && imc <= 34.9)
+        {
+            System.Console.WriteLine("Composición corporal: Obesidad Tipo I (moderada)");
+            System.Console.WriteLine("Riesgo asociado: Riesgo alto de diabetes tipo 2, hipertensión y problemas cardiovasculares.");
+        }
+        else if (imc >= 35 && imc <= 39.9)
+        {
+            System.Console.WriteLine("Composición corporal: Obesidad Tipo II (severa)");
+            System.Console.WriteLine("Riesgo asociado: Riesgo muy alto de complicaciones graves: infartos, apnea del sueño, artrosis.");
+        }
+        else
+        {
+            System.Console.WriteLine("Composición corporal: Obesidad Tipo III (mórbida)");
+            System.Console.WriteLine("Riesgo asociado: Riesgo extremadamente alto: enfermedades cardiovasculares, metabólicas y mayor mortalidad.");
+        }
+    }
 }

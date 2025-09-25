@@ -27,5 +27,7 @@ internal class Program
         p.mostrarDatos();
         System.Console.WriteLine();
         System.Console.WriteLine("Su IMC es: " + p.CalcularIMC());
+        System.Console.WriteLine();
+        p.ClasificarIMC();
     }
 }
